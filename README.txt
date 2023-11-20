@@ -5,7 +5,7 @@ Before you start, ensure you have the following installed:
   - Pygame
 
 Clone the repository:
-  - git clone https://github.com/your-username/spaceships-game.git
+  - git clone https://github.com/harryhuhn/Spaceships
 
 Navigate to the project directory:
   - cd spaceships-game
