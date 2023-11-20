@@ -10,9 +10,6 @@ Clone the repository:
 Navigate to the project directory:
   - cd Spaceships
 
-Install dependencies:
-  - pip install -r requirements.txt
-
 How to Play:
   1. Run the game:
     - python main.py
